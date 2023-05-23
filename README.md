@@ -6,6 +6,7 @@ La SAE 11 est un projet qui nous à pris, mon groupe et moi plusieurs semaine à
 ### Taches à effectuer :
 * Identifier le besoin
 * Énumération des risques
-* 
+* Editer une charte graphique
+* Monter un rapport pour définir les risques et solutions
 ### Charte graphique
 Afin de mener à bien notre projet, nous avons dû metre au point une charte graphique qui donne les consignes de mise en page de notre livrable et qui par la même occasion structure notre travail.
