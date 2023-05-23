@@ -12,4 +12,5 @@ La SAE 11 est un projet qui nous à pris, mon groupe et moi plusieurs semaine à
 Afin de mener à bien notre projet, nous avons dû metre au point une charte graphique qui donne les consignes de mise en page de notre livrable et qui par la même occasion structure notre travail.
 ### Fichiers
 * Rapport finale : [ici](SAE%2011%20groupe%204.pdf)
+* Charte graphique : [ici](Charte%20graphique.pdf)
 
